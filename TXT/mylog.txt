@@ -12,6 +12,14 @@ ZCZC W00 120 L02 ZOOM related
 ZCZC W00 80 L21 VirtualBox: Try install VirtualBox
 ZCZC W00 60 L23 Discord: Read announcement and faq
 ZCZC W01 120 L02 ZOOM Related
+ZCZC W01 120 L11 Assignment #1
 ZCZC W01 220 L21 VirtualBox: Install Debian
 ZCZC W01 50 L05 GSGS related
 ZCZC W01 45 L06 Reading Slides
+ZCZC W01 60 L12 Assignment #2
+ZCZC W01 45 L13 Assignment #3
+ZCZC W01 15 L14 Assignment #4
+ZCZC W01 60 L15 Assignment #5
+ZCZC W01 10 L16 Assignment #6
+ZCZC W01 60 L17 Assignment #7
+ZCZC W01 15 L18 Assignment #8
