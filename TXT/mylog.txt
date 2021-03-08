@@ -23,3 +23,13 @@ ZCZC W01 60 L15 Assignment #5
 ZCZC W01 10 L16 Assignment #6
 ZCZC W01 60 L17 Assignment #7
 ZCZC W01 15 L18 Assignment #8
+ZCZC W02 120 L02 Zoom Related
+ZCZC W02 25 L12 Assignment #2
+ZCZC W02 5 L13 Assignment #3
+ZCZC W02 5 L14 Assignment #4
+ZCZC W02 45 L15 Assignment #5
+ZCZC W02 120 L16 Assignment $6
+ZCZC W02 30 L17 Assignment #7
+ZCZC W02 15 L18 Assignment #8
+ZCZC W02 10 L19 Assignment #9
+ZCZC W02 60 L05 GSGS Related
