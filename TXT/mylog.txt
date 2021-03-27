@@ -46,3 +46,17 @@ ZCZC W03 30 L17 Assignment #7
 ZCZC W03 15 L18 Assignment #8
 ZCZC W03 15 L19 Assignment #9
 ZCZC W03 30 L05 GSGS Related
+ZCZC W04 60 L06 Read OSC Book
+ZCZC W04 90 L01 ZOOM Related
+ZCZC W04 15 L01 SCELE Related QUIZ
+ZCZC W04 25 L05 GSGS C * and Ampersand
+ZCZC W04 15 L21 Backup VirtualBox 
+ZCZC W04 10 L99 QUIZ 02 Send Email
+ZCZC W04 45 L11 Assignment #1
+ZCZC W04 20 L12 Assignment #2
+ZCZC W04 20 L13 Assignment #3
+ZCZC W04 80 L14 Assignment #4
+ZCZC W04 10 L15 Assignment #5
+ZCZC W04 20 L16 Assignment #6
+ZCZC W04 10 L17 Assignment #7
+ZCZC W04 10 L18 Assignment #8
