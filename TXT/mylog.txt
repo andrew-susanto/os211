@@ -60,3 +60,11 @@ ZCZC W04 10 L15 Assignment #5
 ZCZC W04 20 L16 Assignment #6
 ZCZC W04 10 L17 Assignment #7
 ZCZC W04 10 L18 Assignment #8
+ZCZC W05 20 L11 Assignment #1
+ZCZC W05 10 L12 Assignment #2
+ZCZC W05 45 L13 Assignment #3
+ZCZC W05 35 L14 Assignment #4
+ZCZC W05 10 L15 Assignment #5
+ZCZC W05 10 L16 Assignment #6
+ZCZC W05 70 L01 ZOOM Related
+ZCZC W05 30 L99 QUIZ 
