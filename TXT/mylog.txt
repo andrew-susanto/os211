@@ -92,4 +92,13 @@ ZCZC W08 15 L15 Assignment #5
 ZCZC W08 19 L16 Assignment #6
 ZCZC W08 90 L01 ZOOM Related
 ZCZC W08 30 L99 QUIZ
+ZCZC W09 20 L11 Assignment #1
+ZCZC W09 45 L12 Assignment #2
+ZCZC W09 90 L13 Assignment #3
+ZCZC W09 300 L14 Assignment #4
+ZCZC W09 30 L15 Assignment #5
+ZCZC W09 15 L16 Assignment #6
+ZCZC W09 15 L17 Assignment #7
+ZCZC W09 90 L01 ZOOM Related
+ZCZC W09 60 L99 QUIZ
 
